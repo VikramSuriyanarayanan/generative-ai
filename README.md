@@ -1,3 +1,5 @@
+See: https://github.com/VikramSuriyanarayanan/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb to get started. 
+
 # Generative AI
 
 Welcome to the Google Cloud [Generative AI](https://cloud.google.com/ai/generative-ai) repository.
